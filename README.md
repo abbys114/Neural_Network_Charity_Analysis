@@ -6,7 +6,7 @@ The purpose of this analysis is to help Alphabet Soup predict where to make inve
 ## Results: 
 
 ### Data Preprocessing
--The features for our model are "IS_SUCCESSFUL"
+- The features for our model are "IS_SUCCESSFUL"
 
 ### Compiling, Training, and Evaluting the Model
 - There are 8 nueurons in layer 1 and 5 in layer 2
